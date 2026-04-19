@@ -24,3 +24,6 @@ https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTM3U
 #EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HD" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Entertainment", Sun TV HD
 https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
+
+#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/195489/640x360_SuryaTVHDDolbyVision_195489_b51cb569-382c-4dc4-b9ec-5c09396ebd2a.jpg" group-title="Entertainment", Surya TV HDR
+https://m3u.8088y.fun/live/suryatvd.m3u8?tk=testing
