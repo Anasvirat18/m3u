@@ -30,3 +30,9 @@ https://m3u.8088y.fun/live/suryatvd.m3u8?tk=testing
 
  #EXTINF:-1 tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="Sports", Star Sports 1 Tamil HD (world wide)
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276742&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.8088y.fun/jtvp/Hungama.json
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF: -1 tvg-id="HUNGAMA.in" tvg-name="Hungama" audio-track="2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids", Hungama
+https://m3u.8088y.fun/jtvp/Hungama.mpd?tk=testing
