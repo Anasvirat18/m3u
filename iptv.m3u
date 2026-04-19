@@ -20,3 +20,7 @@ https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-a
 
 #EXTINF:-1 tvg-name="Entertainment",Kairali TV
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
+
+#EXTM3U
+#EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HD" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Entertainment", Sun TV HD
+https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
