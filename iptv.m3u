@@ -27,3 +27,6 @@ https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
 
 #EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/195489/640x360_SuryaTVHDDolbyVision_195489_b51cb569-382c-4dc4-b9ec-5c09396ebd2a.jpg" group-title="Entertainment", Surya TV HDR
 https://m3u.8088y.fun/live/suryatvd.m3u8?tk=testing
+
+ #EXTINF:-1 tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="Sports", Star Sports 1 Tamil HD (world wide)
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276742&extension=ts
